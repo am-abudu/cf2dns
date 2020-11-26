@@ -1,4 +1,4 @@
-name: 'CloudFlare Auto IP'
+name: 'CloudFlare Auto IP For cf.oplog.cn'
 
 on:
   push:
